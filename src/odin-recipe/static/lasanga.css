@@ -1,0 +1,15 @@
+.title {
+    color: white;
+    background-color: 	#1877F2;
+    text-align: center;
+    font-size: 80px;
+    padding: 20px;
+}
+
+.picture {
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+    height: 500px;
+
+}

@@ -1,0 +1,16 @@
+.heading {
+    color: white;
+    background-color: #1877F2;
+    text-align: center;
+    font-size: 80px;
+    padding: 20px;
+}
+
+.recipes {
+    text-align: center;
+    font-size: 40px;
+}
+
+.recipes a {
+    text-decoration: none;
+}
